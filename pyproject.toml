@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "aws-afrocodigos"
+version = "0.1.0"
+description = ""
+authors = ["FeliPython <felipejpa15@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+boto3 = "^1.34.49"
+ipdb = "^0.13.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
