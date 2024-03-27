@@ -5,6 +5,7 @@
 1. Criar bucket
 2. Listar buckets
 3. Apagar bucket
+4. Encerramento do programa
 
 ### Criar bucket
 
@@ -17,3 +18,7 @@ Listar os buckets que tem criados na AWS
 ### Apagar bucket
 
 Receber o identificador do bucket e apagar ele
+
+
+### Encerramento do programa
+Encerra o programa
